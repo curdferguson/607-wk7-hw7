@@ -7,7 +7,7 @@
       "ISBN": 9780762460007,
     	"Title": "Composing the Cheese Plate",
     	"Author": ["Brian Keyser", "Leigh Friend"],
-    	"Buy Online"
+    	"Buy Online":
     		{
     			"url": "https://www.amazon.com/Composing-Cheese-Plate-Pairings-Inventive/dp/0762460008/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1616349374&sr=8-1",
     			"link text": "Amazon"
@@ -16,44 +16,44 @@
       "Comment":"These recipes, accompanied by beautiful photography, are unique and elegant while still approachable enough to whip up in your own kitchen.  You'll have a great time learning to cook while taking your cheese plate accompaniments to the next level!"
     }
     
-    "book:"
+    "book":
     { 
       "ISBN": 9781452182933,
     	"Title": "HOT CHEESE: OVER 50 GOOEY, OOZY, MELTY RECIPES",
     	"Author": "Polina Chesnakova",
-    	"Buy Online"
+    	"Buy Online":
     		{
     			"url": "https://www.booklarder.com/books/info/hot-cheese-over-50-gooey-oozy-melty-recipes",
     			"link text": "Book Larder"
-    		},:
+    		},
       "Price":"$19.95",
       "Comment":"From classics like fondue and raclette, to elevated fair like bechamel sauce and khachapuri, to tailgate staples like cheesy waffle fries and 'Easy Peasy Poutine', if there is a dish that calls for melting cheese, Polina has riffed on it in this collection of culinary greatest hits."
     }
     
-    "book:"
+    "book":
     { 
       "ISBN": 9781603585064,
     	"Title": "Cheese and Culture: A History of Cheese and Its Place in Western Civilization",
     	"Author": "Paul Kindstedt",
-    	"Buy Online"
+    	"Buy Online":
     		{
     			"url": "https://www.strandbooks.com/product/9781603585064?title=cheese_and_culture_a_history_of_cheese_and_its_place_in_western_civilization",
     			"link text": "Strand Books"
-    		},:
+    		},
       "Price":"$24.95",
       "Comment":"A fascinating exploration of the historical evolution of cheeses and the civilizations that spawned them, from Ancient Mesopotamia to the early 20th century.  Impeccably researched without becoming dense, it's an accessible, engaging, and informative read for anyone who's ever wondered where their food comes from."
   }
   
-   "book:"
+   "book":
     { 
       "ISBN": 9781250063458,
     	"Title": "The Book of Cheese: The Essential Guide to Discovering Cheeses You'll Love",
     	"Author": "Liz Thorpe",
-    	"Buy Online"
+    	"Buy Online":
     		{
     			"url": "https://www.amazon.com/Book-Cheese-Essential-Discovering-Cheeses/dp/1250063450/ref=sr_1_1?dchild=1&keywords=the+book+of+cheese&qid=1616350636&sr=8-1s",
     			"link text": "Amazon"
-    		},:
+    		},
       "Price":"$40.00",
       "Comment":"With its engaging vignettes on regions, producers, and production styles, and innovative 'gateway cheeses' classification framework, this book has supplanted Steve Jenkins' Cheese Primer as the ultimate cheese reference for the 21st century."
   }
